@@ -1,0 +1,14 @@
+# Goal:
+
+# Predict the trapping probability corresponding to different setup parameters
+# Represent one-dimensional sections of trapping probability
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# Various subset of parameters analyzed in different folders:
+- Microtrap_Speed
+- Trap_Waist
+- Trap_Position
+- RDL_Position
+
+----------------------------------------------------------------------------------------------------------------------------------
