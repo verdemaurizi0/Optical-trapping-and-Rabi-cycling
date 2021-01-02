@@ -7,7 +7,7 @@
 # Open the executive file Decay.sh :
 # Set input parameters for Decay.out :
 let TimeShots = N        # Number of time shots during the evolution
-let TimeInterval = T      # Time interval between consecutive time shots [µs]
+let TimeInterval = T     # Time interval between consecutive time shots [µs]
 
 # Open the file Parameters.hpp and set the desired values
 # Open the file Setting_Decay.plot and set the graphical appearance
