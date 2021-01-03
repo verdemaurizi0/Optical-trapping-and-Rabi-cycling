@@ -7,8 +7,8 @@
 
 # Open the executive file 3D_Animation.sh :
 # Set input paramters for Trajectories.out :
-let TimeShots=20        # Number of time shots during the evolution
-let TimeInterval=1      # Time interval between consecutives time shots [µs]
+let TimeShots = N          # Number of time shots during the evolution
+let TimeInterval = dT      # Time interval between consecutives time shots [µs]
 
 # Open the file Parameters.hpp and set all the desired values
 
