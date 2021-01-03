@@ -21,16 +21,16 @@
 #define IPG_Z 0.                // Focal spot z-coordinate [µm]
 #define IPG_P 240.              // Maximum available power [W]
 #define IPG_L 1.07              // Wavelength              [µm]
-#define IPG_W 30.               // Waist                   [µm]          
+#define IPG_W 30.               // Waist                   [µm]
 
-// RDL driving quantum transitions (assumed to be oriented along the y-axis)   
+// RDL driving quantum transitions (assumed to be oriented along the y-axis)
 
 #define RDL_X 0.                // Focal spot x-coordinate [µm]
 #define RDL_Y 0.                // Focal spot y-coordinate [µm]
 #define RDL_Z 0.                // Focal spot z-coordinate [µm]
 #define RDL_L 0.563             // Wavelength              [µm]
 #define RDL_W 30.               // Waist                   [µm]
-#define RDL_Shape "Cutted"      // Two shapes: "TEM00" or "Cutted" 
+#define RDL_Shape "Cutted"      // Two shapes: "TEM00" or "Cutted"
 
 // Physical constants
 

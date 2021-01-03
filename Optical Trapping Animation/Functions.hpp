@@ -3,12 +3,12 @@
 
 extern int Excitation;
 
-double SIGMA_V(const double T);  
+double SIGMA_V(const double T);
 double IPG_WY(const double y);
 double RDL_WY(const double y);
 
-double EL_0(const double v); 
-double K0(const double v);                        
+double EL_0(const double v);
+double K0(const double v);
 double EL_STARK(const double y[]);
 double D_EL_STARK(const double y[]);
 
@@ -23,6 +23,3 @@ int RGB_QS(const int exc);
 int GS_TRAPPED(const double y[]);
 
 #endif /* FUNCTIONS_H */
-
-
-
