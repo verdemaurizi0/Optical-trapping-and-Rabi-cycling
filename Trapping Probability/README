@@ -5,10 +5,30 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-# Various subset of parameters analyzed in different folders:
-- Microtrap_Speed
-- Trap_Waist
-- Trap_Position
-- RDL_Position
+# Varying Microtrap_Speed:
+
+# Open the file Parameters.hpp:
+- Set all desired values except the microtrap's speed
+- Initialize the microtrap's speed to zero
+
+# Open the script Trapping_Probability_VS_Microtrap_Speed.sh:
+- Set the desired values of microtrap speed
+
+# Execute Trapping_Probability_VS_Trap_Waist.sh
+# Results plotted in Microtrap_Speed.png
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# Varying Trap_Waist:
+
+# Open the file Parameters.hpp:
+- Set all desired values except the IPG and RDL waist
+- Initialize the IPG and RDL waist to their maximum value
+
+# Open the script Trapping_Probability_VS_Trap_Waist.sh:
+- Set the desired values of trap waist
+
+# Execute Trapping_Probability_VS_Trap_Waist.sh
+# Results plotted in Trap_Waist.png
 
 ----------------------------------------------------------------------------------------------------------------------------------
