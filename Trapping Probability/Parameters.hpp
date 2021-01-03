@@ -36,7 +36,7 @@
 
 #define cEps0 0.0026544187      // c*eps0  [J / (V^2*s)]
 #define a3pi1_T 2630.           // lifetime of molecules in the a3pi1 state [µs]
-#define Trans_P 1.            // transit probability to the ground state gs
+#define Trans_P 0.28            // transit probability to the ground state gs (up to 28%)
 #define Half_L 2.80747          // Λ/(2*mCO) = 2.80747  [µm^2/µs^2]                                 (a3pi1 DC Stark)
 #define a3pi1_Mu 49.3278        // µ/(2*mCO) = 49.1431  [µm^3/(µs^2*V)] (1.37 Debye -> 49.3278)     (a3pi1 DC Stark)
 #define a3pi1_p 0.0047          // α/mCO = 0.0047       [um^4/(us^2*V^2)]                           (a3pi1 polarizability)
