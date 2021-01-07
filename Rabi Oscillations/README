@@ -1,0 +1,13 @@
+# Goal:
+
+# Predict the Rabi dynamics for a two-levels system interacting with a laser field in the TEM00 mode
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# Varying setup parameters in the file config.cfg:
+- Set all desired values describing the actual setup
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# Execute rabi_ensemble.sh
+# Results plotted in rabi_ensemble.png
