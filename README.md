@@ -8,7 +8,7 @@ This repo is structured as follows:
 It contains files.nb covering different tasks related to both optical dipole trapping and Rabi oscillations.
 
 ### Optical Trapping Animation
-It contains the files needed to generate 3D_Animation.gif, being it a simple 3D representation of molecular trajectories in a force field, depending on time-varying molecular quantum state.
+It contains the files needed to generate 3D_Animation.gif, being it a simple 3D representation of molecular trajectories in a force field depending on time-varying molecular quantum state.
 
 ### Rabi Oscillations
 It contains files to simulate the Rabi cycling for an ensemble of CO molecules freely expanding in the vacuum and crossing a laser field.
